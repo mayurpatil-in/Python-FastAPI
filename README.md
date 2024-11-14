@@ -22,3 +22,6 @@ fastapi dev main.py
 
 ## Path Operation
 ![Path Sturcture](./images/apioper.png)
+
+## HTTP Get vs Post requests
+![Path Sturcture](./images/httppost.png)
